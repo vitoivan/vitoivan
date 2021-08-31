@@ -1,4 +1,5 @@
-![](./me.gif)
+<img src="./me.gif" width="1000px" height="350px"/>
+  
 # Hi 👋, my name is ⭐ Victor ⭐
 
 I'm a Full Stack Web developer student at [Kenzie Academy Brazil](https://kenzie.com.br/) and now I am a Software Engineering student at [école 42](https://www.42.fr) [São Paulo](https://www.42sp.org.br) too
@@ -18,6 +19,5 @@ I'm a Full Stack Web developer student at [Kenzie Academy Brazil](https://kenzie
 ## 💻 Kenize Projects 💻
   
 <a href="https://gitlab.com/vitoivan/iroca-project"><img width="125px" src="./kenzie_icons/iroca.png"/></a>
-
-  
+    
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-ivan/)
