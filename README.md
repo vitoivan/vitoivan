@@ -16,7 +16,7 @@ I'm a Full Stack Web developer student at [Kenzie Academy Brazil](https://kenzie
   
 ![vivan-de's 42 stats](https://badge42.herokuapp.com/api/stats/vivan-de?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus)
   
-## <img src="./kenzie_icons/kenzie_logo.jpeg" width="50px"/> Kenzie Projects <img src="./kenzie_icons/kenzie_logo.jpeg" width="50px"/>
+## <img src="./kenzie_icons/kenzie_logo.jpg" width="17px"/> Kenzie Projects <img src="./kenzie_icons/kenzie_logo.jpg" width="17px"/>
   
 <a href="https://gitlab.com/vitoivan/iroca-project"><img width="125px" src="./kenzie_icons/iroca.png"/></a>
     
