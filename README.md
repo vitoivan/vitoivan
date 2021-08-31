@@ -7,7 +7,7 @@ I'm a Full Stack Web developer student at [Kenzie Academy Brazil](https://kenzie
 - 💖 My favorite project at Kenzie is [iRoça](https://gitlab.com/vitoivan/iroca-project), that was a [website](https://iroca-project.vercel.app/) and my last project of the Front-end module;
 - 📚 I’m currently learning C, Shell, and Flask
   
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoivan&theme=dracula&show_icons=true)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoivan&layout=compact&theme=dracula)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoivan&theme=dracula&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoivan&layout=compact&theme=dracula)
   
 ---
 ## 💻 42 Projects 💻
@@ -16,7 +16,7 @@ I'm a Full Stack Web developer student at [Kenzie Academy Brazil](https://kenzie
   
 ![vivan-de's 42 stats](https://badge42.herokuapp.com/api/stats/vivan-de?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus)
   
-## 💻 Kenize Projects 💻
+## <img src="./kenzie_icons/kenzie_logo.jpeg" width="50px"/> Kenzie Projects <img src="./kenzie_icons/kenzie_logo.jpeg" width="50px"/>
   
 <a href="https://gitlab.com/vitoivan/iroca-project"><img width="125px" src="./kenzie_icons/iroca.png"/></a>
     
