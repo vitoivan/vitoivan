@@ -1,4 +1,4 @@
-![](./cyperpunk.gif)
+![](./me.gif)
 # Hi 👋, my name is ⭐ Victor ⭐
 
 I'm a Full Stack Web developer student at [Kenzie Academy Brazil](https://kenzie.com.br/) and now I am a Software Engineering student at [école 42](https://www.42.fr) [São Paulo](https://www.42sp.org.br) too
