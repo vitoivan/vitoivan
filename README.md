@@ -1,4 +1,4 @@
-<img src="./me.gif" width="1000px" height="350px"/>
+<img src="./42.png" width="1000px"/>
   
 # Hi 👋, my name is ⭐ Victor ⭐
 
