@@ -5,7 +5,7 @@
 I'm a Full Stack Web developer student at [Kenzie Academy Brazil](https://kenzie.com.br/) and now I am a Software Engineering student at [école 42](https://www.42.fr) [São Paulo](https://www.42sp.org.br) too
 - 🖥 I’m currently working on the [Libft](https://github.com/vitoivan/42_libft), my first project in 42SP, which is to recreate some [Libc](https://en.wikipedia.org/wiki/C_standard_library#:~:text=The%20C%20standard%20library%20or,is%20a%20superset%20of%20it.) functions;
 - 💖 My favorite project at Kenzie is [iRoça](https://gitlab.com/vitoivan/iroca-project), that was a [website](https://iroca-project.vercel.app/) and my last project of the Front-end module;
-- 📚 I’m currently learning C, Shell, and Flask
+- 📚 I’m currently learning C, Shell, Node, and MeteorJS  
   
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoivan&theme=dracula&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoivan&layout=compact&theme=dracula)
   
