@@ -12,3 +12,4 @@ I'm a Full Stack Web developer and now I am a Software Engineering student at [�
 ## 💻 42 Projects 💻
   
 <a href="https://github.com/vitoivan/42_libft"><img width="125px" src="./42_icons/libft.png"/></a>
+<a href="https://github.com/vitoivan/42_libft"><img width="125px" src="./42_icons/get_next_line.png"/></a>
