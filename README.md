@@ -13,8 +13,8 @@ I'm a Full Stack Web developer and now i am a Software Engineering student at [4
   
 <a href="https://github.com/vitoivan/42_libft"><img width="125px" src="./42_icons/libft.png"/></a>
 <a href="https://github.com/vitoivan/42_get_next_line"><img width="125px" src="./42_icons/get_next_line.png"/></a>
-<a href="https://github.com/vitoivan/42_ftprintf"><img width="125px" src="./42_icons/get_next_line.png"/></a>
-<a href="https://github.com/vitoivan/42_fractol"><img width="125px" src="./42_icons/get_next_line.png"/></a>
+<a href="https://github.com/vitoivan/42_ftprintf"><img width="125px" src="./42_icons/ft_printf.png"/></a>
+<a href="https://github.com/vitoivan/42_fractol"><img width="125px" src="./42_icons/fractol.png"/></a>
   
 ---
   
