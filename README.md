@@ -20,4 +20,4 @@ I'm a Full Stack Web developer and now i am a Software Engineering student at [4
   
 ## Other projects
 
-- [Create-flash-app](https://github.com/vitoivan/create_flask_app) --> A project for easily start a flask project with some configuration (using blueprints and MVC model)
+- [Create-flask-app](https://github.com/vitoivan/create_flask_app) --> A project for easily start a flask project with some configuration (using blueprints and MVC model)
