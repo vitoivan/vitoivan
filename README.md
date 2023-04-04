@@ -1,10 +1,6 @@
 <img src="./42.png" width="1000px"/>
   
-# Hi 👋, my name is ⭐ Victor ⭐
-
-I'm a Full Stack Web developer and now i am a Software Engineering student at [42 São Paulo](https://www.42sp.org.br) too
-- 🖥 I’m currently working on the [fractol](https://github.com/vitoivan/42_fractol), which is a fractal explorer built in C using the [minilibx](https://github.com/42Paris/minilibx-linux), (which is built on top of [Xlib](https://tronche.com/gui/x/xlib/)).
-- 📚 I’m currently learning C, Shell and Unix
+I'm a Full Stack Web developer and now i'm a Software Engineering student at [42 São Paulo](https://www.42sp.org.br) too
   
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoivan&theme=dracula&show_icons=true)  ---  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoivan&layout=compact&theme=dracula)
   
@@ -15,6 +11,9 @@ I'm a Full Stack Web developer and now i am a Software Engineering student at [4
 <a href="https://github.com/vitoivan/42_get_next_line"><img width="125px" src="./42_icons/get_next_line.png"/></a>
 <a href="https://github.com/vitoivan/42_ftprintf"><img width="125px" src="./42_icons/ft_printf.png"/></a>
 <a href="https://github.com/vitoivan/42_fractol"><img width="125px" src="./42_icons/fractol.png"/></a>
+<a href="https://github.com/vitoivan/42-pipex"><img width="125px" src="./42_icons/pipex.png"/></a>
+<a href="https://github.com/vitoivan/42-push-swap"><img width="125px" src="./42_icons/push_swap.png"/></a>
+<a href="https://github.com/vitoivan/42-minishell"><img width="125px" src="./42_icons/minishell.png"/></a>
   
 ---
   
